@@ -8,6 +8,6 @@ You can click the Preview link to take a look at your changes.
 - I’m an HR Aficionado, Mindfulness & Personal Development Enthusiast
 - I’m currently a full grad student at Villanova University gaining an M.S. in HR Development 
 - Reading Mapping Cloud 9 by Steven Kolter
-- I find fitness fun and veggies delicious 
+- I find fitness fun and veggies delicious
 
 --->
